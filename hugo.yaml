@@ -59,7 +59,7 @@ params:
 
   editURL:
     enable: false
-    base: "https://github.com/deependujha/pytorch-codes/edit"
+    base: "https://github.com/deependujha/cuda-codes/edit"
   
   blog:
     list:
