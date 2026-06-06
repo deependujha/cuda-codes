@@ -76,3 +76,7 @@ Testing/
 *.ptx
 *.cubin
 *.fatbin
+
+*nsys-rep
+*ncu-rep
+*.nsys-rep
